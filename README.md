@@ -4,7 +4,7 @@
 
 Welcome! [Code Institute](https://codeinstitute.net)
 
-This test project displays links to the [wikipedia](https://www.wikipedia.org/) pages describing the tool I will be using as part of my full-stack developer course with Code Institute.
+This test project displays links to the [wikipedia](https://www.wikipedia.org/) pages describing the tools I will be using as part of my full-stack developer course with Code Institute.
 
 The site includes three webpages, each with a navigation bar with links to the other two pages and a link to themselves.
 
